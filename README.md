@@ -1,1 +1,131 @@
 # maudkivits.github.io
+
+<!DOCTYPE html>
+<html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {box-sizing: border-box}
+body {font-family: Arial, Helvetica, sans-serif;}
+
+.navbar {
+  width: 100%;
+  background-color: #555;
+  overflow: auto;
+}
+
+.navbar a {
+  float: left;
+  padding: 12px;
+  color: white;
+  text-decoration: none;
+  font-size: 17px;
+  width: 20%; /* Four links of equal widths */
+  text-align: center;
+}
+
+.navbar a:hover {
+  background-color: #000;
+}
+
+.navbar a.active {
+  background-color: #4CAF50;
+}
+
+@media screen and (max-width: 500px) {
+  .navbar a {
+    float: none;
+    display: block;
+    width: 100%;
+    text-align: left;
+  }
+}
+body:before {
+content: "";
+display: block;
+width: 100%;
+height: 60%;
+position: fixed;
+left: 0;
+top: 0;
+z-index: -10;
+background-image: url(bw1.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: left top;
+</style>
+<body>
+
+
+  <div class="navbar">
+    <a class="active" href="website.html">Home</a>
+    <a href="website2.html">bewindvoering</a>
+    <a href="#">Tarieven</a>
+    <a href="#">Over mij</a>
+    <a href="#">Contact</a>
+
+</div>
+<center>
+<h1>
+<p style="color:white">
+Bewindvoering 's-Hertogenbosch
+</p>
+</h1>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<h1>
+<p style="color:Black">
+<table style="width:100%">
+ <tr>
+ <p><mark>
+  <td> <p><strong> Persoonlijke Aandacht</td> </strong>
+  <td> <p><small> <h1 style="font-size:50%;"> Onze cliënt heeft te maken met twee bewindvoerders die hij persoonlijk kent en waarvan één als vast contactpersoon fungeert. Wensen en voor cliënt belangrijke zaken worden in kaart gebracht en indien mogelijk in het budgetplan opgenomen. Ratio Bewind zoekt contact met de cliënt en hulpverlener om ze te betrekken bij beslissingen die rondom de financiën genomen moeten worden. Persoonlijke aandacht en oplossingsgericht denken staan daarbij voorop.</td> </small> </h1>
+ </tr>
+ <tr>
+  <td> <p><strong> Duidelijkheid & vertrouwen</td> </strong>
+  <td> <p><small> <h1 style="font-size:50%;"> Door duidelijkheid en betrokkenheid wordt wederzijds vertrouwen opgebouwd. Open communicatie, goede bereikbaarheid en een duidelijke uitleg vormen de basis voor onze dagelijkse manier van werken. Zowel cliënt als hulpverlener genieten zo van een professionele zorg en toewijding.</td> </small> </h1>
+</table>
+</p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+</center>
+</body>
+
+</html>
